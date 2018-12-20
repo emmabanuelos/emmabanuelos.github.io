@@ -1,5 +1,7 @@
 ## Welcome to GitHub Pages
+testing testing 1. 2. 3.
 
+I wanted to check this out and see how to edit this. It is kind of confusing so I wanted to see how this worked.
 You can use the [editor on GitHub](https://github.com/emmabanuelos/emmabanuelos.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
