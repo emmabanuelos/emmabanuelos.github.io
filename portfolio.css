@@ -1,6 +1,29 @@
 /*THIS IS THE CSS FILE*/
+header {
+background-image: url(https://images.unsplash.com/photo-1450849608880-6f787542c88a?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=2766&q=80);
+background-size: cover;
+height: 300px;
+width: 100%;
+}
+
+.space-container {
+  display: flex;
+}
+
+.nerd {
+  width: 150px;
+  height: 125px;
+}
+
+.bird {
+  width: 200px;
+  height: 200px;
+
+}
+
 h1{
-color: red;
+  text-align: center;
+  color: purple;
 }
 
 p{
