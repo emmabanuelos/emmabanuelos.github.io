@@ -1,32 +1,38 @@
-/*THIS IS THE CSS FILE*/
+html {
+  background-image: url(https://images.unsplash.com/photo-1450849608880-6f787542c88a?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=2766&q=80);
+  background-size: cover;
+}
+
 header {
-background-image: url(https://images.unsplash.com/photo-1450849608880-6f787542c88a?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=2766&q=80);
-background-size: cover;
-height: 300px;
-width: 100%;
-}
-
-.space-container {
-  display: flex;
-}
-
-.nerd {
-  width: 150px;
-  height: 125px;
-}
-
-.bird {
-  width: 200px;
-  height: 200px;
-
-}
-
-h1{
+  font-size: 60px;
   text-align: center;
-  color: purple;
+  font-family: 'Staatliches', cursive;
+  color: #7575a3;
+  letter-spacing: 3px;
+  text-shadow: 2px 2px 8px #FF0000;
 }
 
-p{
-  font-style: italic;
-  background-color: purple;
+h1 {
+
+}
+
+h2 {
+  font-size: 30px;
+  margin-top: -75px;
+}
+
+body {
+  font-size: 20px;
+  font-family: 'PT Sans Narrow', sans-serif;
+  color: #ffffff;
+  text-align: center;
+  line-height: normal;
+}
+
+a {
+  color: #ffffff;
+}
+
+div {
+  margin-top: 100px;
 }
