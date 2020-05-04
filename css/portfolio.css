@@ -1,0 +1,85 @@
+html {
+  background-image: url(https://images.unsplash.com/photo-1450849608880-6f787542c88a?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=2766&q=80);
+  background-size: cover;
+  background-attachment: fixed;
+
+}
+
+header {
+  margin-top: -75px;
+  font-size: 60px;
+  text-align: center;
+  font-family: 'Staatliches', cursive;
+  color: #7575a3;
+  letter-spacing: 3px;
+  }
+
+h1 {
+   text-shadow: 3px 3px 1px #ff6600;
+  }
+
+h2 {
+  font-size: 30px;
+  margin-top: -75px;
+  text-shadow: 2px 2px 4px #ff6600;
+  }
+
+body {
+  font-size: 20px;
+  font-family: 'PT Sans Narrow', sans-serif;
+  color: #ffffff;
+  text-align: center;
+  line-height: normal;
+  }
+
+.about-me-container{
+  display: flex;
+  justify-content: space-evenly;
+  width: auto;
+  height: auto;
+  margin-top: 100px;
+
+}
+
+img {
+
+border-radius: 25%;
+}
+
+p.aboutme {
+margin-top: 20px;
+margin-bottom: 0px;
+margin-left: -50px;
+  width: 33%;
+  text-align: justify;
+}
+
+a {
+  color: #ffffff;
+}
+
+.aws-btn {
+
+--button-default-height: 48px;
+--button-default-font-size: 14px;
+--button-default-border-radius: 6px;
+--button-horizontal-padding: 20px;
+--button-raise-level: 5px;
+--button-hover-pressure: 2;
+--transform-speed: 0.185s;
+--button-primary-color: #762894;
+--button-primary-color-dark: #45244b;
+--button-primary-color-light: #d4d9e4;
+--button-primary-color-hover: #8e2cb3;
+--button-primary-border: none;
+--button-secondary-color: #ffe638;
+--button-secondary-color-dark: #b9b500;
+--button-secondary-color-light: #6c510c;
+--button-secondary-color-hover: #fffb3e;
+--button-secondary-border: 0px solid transparent;
+--button-anchor-color: #3ac624;
+--button-anchor-color-dark: #267329;
+--button-anchor-color-light: #4c3016;
+--button-anchor-color-hover: #2ae140;
+--button-anchor-border: 1px solid transparent;
+}
